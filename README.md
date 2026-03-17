@@ -7,8 +7,7 @@
 <p align="center">
   <img src="https://github.com/rm7669/rm7669/blob/main/Rony/Saiko.png"
        alt="Saiko Boy Rony Ali— Banner" width="100%" />
-  <img src="https://github.com/rm7669/rm7669/blob/main/Rony/Saiko.png"
-       alt="Saiko Boy Rony Ali— Banner" width="100%" />
+   
 </p>
 
 <!-- Headline -->
